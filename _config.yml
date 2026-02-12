@@ -3,9 +3,9 @@ description: Developer, builder, and open-source enthusiast.
 theme: minima
 url: "https://chrisdavidmiles.github.io"
 
-author:
-  name: Chris David Miles
-
-minima:
-  social_links:
-    - { platform: github, user_url: "https://github.com/chrisdavidmiles" }
+author: Chris David Miles
+github_username: chrisdavidmiles
+twitter_username: chrisdavidmiles
+mastodon:
+  - username: chrisdavidmiles
+    instance: mastodon.social

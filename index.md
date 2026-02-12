@@ -21,4 +21,4 @@ A community event listing board with calendar integration and RSS feeds. Built w
 
 ## Get in Touch
 
-Find me on [GitHub](https://github.com/chrisdavidmiles) or say hello at [hello@chrisdavidmiles.com](mailto:hello@chrisdavidmiles.com).
+Find me on [GitHub](https://github.com/chrisdavidmiles), [Twitter/X](https://x.com/chrisdavidmiles), or [Mastodon](https://mastodon.social/@chrisdavidmiles).
