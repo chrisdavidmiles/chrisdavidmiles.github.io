@@ -3,21 +3,15 @@ layout: home
 title: ""
 ---
 
-Hi, I'm **Chris David Miles** — a developer who builds things for the web. I enjoy working with open-source tools, exploring new platforms, and making the web a little better one project at a time.
+👋 Hi, I'm Miles!
 
-## Projects
+🌐 I do internet stuff.
 
-**Portfolio Site Generator**
-A CLI tool that scaffolds static portfolio sites from a simple config file. Built with Node.js.
+🚀 I retweet / boost cool stuff that people are working on.
 
-**WP Theme Starter**
-A minimal WordPress starter theme focused on performance and accessibility. Ships under 50KB.
+💙 I work on product at [bluehost.com](https://bluehost.com)
 
-**Markdown Note Sync**
-A lightweight note-taking app that syncs Markdown files across devices using Git. Built with Python and Flask.
-
-**Event Board**
-A community event listing board with calendar integration and RSS feeds. Built with Ruby on Rails.
+🔑 PGP: 0471 E258 8E1A DBDA 9034 1EFD A686 AD2C 7AB0 7D97
 
 ## Get in Touch
 
