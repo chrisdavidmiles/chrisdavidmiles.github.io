@@ -22,3 +22,13 @@ A community event listing board with calendar integration and RSS feeds. Built w
 ## Get in Touch
 
 Find me on [GitHub](https://github.com/chrisdavidmiles), [Twitter/X](https://x.com/chrisdavidmiles), or [Mastodon](https://mastodon.social/@chrisdavidmiles).
+
+## Comments
+
+<script src="https://utteranc.es/client.js"
+        repo="chrisdavidmiles/chrisdavidmiles.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
