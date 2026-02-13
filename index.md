@@ -1,6 +1,6 @@
 ---
 layout: home
-title: ""
+title: "Homepage"
 ---
 
 👋 Hi, I'm Miles!
